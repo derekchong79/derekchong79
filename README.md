@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @derekchong79
+- 👋 Hi, I’m Derek Chong
 - 👀 I’m interested in working on data science and AI projects with like minded individuals. Message me if you are keen together on new projects!
