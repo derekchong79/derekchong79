@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Derek Chong
-- 👀 I’m interested in working on data science and AI projects with like minded individuals. Message me if you are keen together on new projects!
+Product and platform leader with 15+ years building and scaling trading products across equities, FX, crypto and banking.
+I combine financial-markets expertise with hands-on applied AI, building agentic workflows and practical products for complex enterprises.
